@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="16" viewBox="0 0 14 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #36aeea;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Lock_locked" data-name="Lock locked" class="cls-1" d="M13,6H11V4A4,4,0,1,0,3,4V6H1A1,1,0,0,0,0,7v8a1,1,0,0,0,1,1H13a1,1,0,0,0,1-1V7A1,1,0,0,0,13,6ZM7,12a1,1,0,1,1,1-1A1,1,0,0,1,7,12ZM9,6H5V4A2,2,0,1,1,9,4V6Z"/>
+</svg>
